@@ -1,0 +1,3 @@
+
+include   ':SpringBootCore'
+project(':SpringBootCore').projectDir = new File(settingsDir, '../SpringBootCore')
